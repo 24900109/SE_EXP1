@@ -1,26 +1,34 @@
-# Exp-1 ATM & BANKING SYSTEM
+# Exp - 1 ATM AND BANKING SYSTEM
 
-# AIM:
+### AIM:
+To draw a UML diagram for a ATM and banking system.
 
-To draw a UML diagram for an ATM and Banking System
+### SRS (Procedure):
+Actors Used-:
+1) Customer
+2) Manager
+3) ATM
+4) Employee
 
-# SRS (Procedure):
+Software - StarUML
 
-Create the following diagrams in StarUML:
+List of Diagrams -:
+1) Class Diagram
+2) Usecase Diagram
+3) Package Diagram
+4) Activity Diagram
+5) Communication Diagram
+6) Sequence Diagram
 
-◉ Use Case Diagram
+Procedure-:
+1. Define System Requirements: Outline the functional and non-functional requirements, such as user authentication and transaction processing.
+2. Identify Key Actors and Use Cases: Determine actors and define their interactions.
+3. Design the System Architecture: Break down the system into components
+4. Create UML Diagrams: Develop use case, class, sequence, and activity diagrams based on the system design.
+5. Test and Validate: Perform testing to ensure the system meets functional requirements and security standards.
 
-◉ Class Diagram
 
-◉ Activity Diagram
-
-◉ Package Diagram
-
-◉ Communication Diagram
-
-◉ Sequence Diagram
-
-# DIAGRAMS:
+### DIAGRAMS:
 
 USE CASE DIAGRAM:
 
@@ -56,6 +64,6 @@ SEQUENCE DIAGRAM:
 
 
 
-# RESULT:
+### RESULT:
 
 Thus, the UML Diagrams for an ATM and Banking System has been drawn and verified.
